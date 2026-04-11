@@ -1,0 +1,3 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Principal		TAR	277	new record size: 277
+Principal	AgentFee	RUB+		AgentFee is a new item

@@ -1,0 +1,4 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Principal		NFI		new file
+Dependent		NFI		new file
+Constraint_Principal_Dependent		NWL	Principal (PrincipalID) and Dependent (MembershipID)	New link between Principal (PrincipalID) and Dependent (MembershipID)

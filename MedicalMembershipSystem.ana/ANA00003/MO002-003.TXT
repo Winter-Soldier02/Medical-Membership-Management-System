@@ -1,0 +1,3 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Principal		TAR	283	new record size: 283
+Principal	AgentFee	CNW	Currency$4-byte integer	item AgentFee has a new type: Currency
